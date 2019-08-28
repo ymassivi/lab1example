@@ -5,7 +5,7 @@
 	<title>ITMD-361 Internet Technologies and Web Design</title>
 </head>
 <body>
-  <p>&amp; Good morning America. This is my first website!</p>
+  <p>&amp;Good morning America. This is my first website!</p>
   <p>i am a transfer student from Iowa and i am very excited to be taking this class</p>
 </body>
 </html>
